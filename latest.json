@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "notes": "What is new and fixed in 0.1.0 is shown in Maieutica before you agree to update.",
+  "pub_date": "2026-10-21T14:05:10Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.0/Maieutica_0.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVl6cnNLSnJiUFFoOFB1RzgzcjhVcXBQaURjekh0OW5XNm1wMGtyUE44NnplTlQvTzloQWpoTVEyRkFmMXVqelZlOEYzOHhqK01oaWVkVlNvT1NLaXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTkwMDY5CWZpbGU6TWFpZXV0aWNhXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAplK2Ivd2V5SVV5VnVrVms2TWc2ZlBSeVRoUjVHSTA4OGRqb3FsMzFqd0lab3U3T0VmOEpEZkRQYVd0Z0NWZjJKVUxUT0Z0U3RvSlppczlTUFk1Z0VEQT09Cg=="
+    },
+    "linux-x86_64-deb": {
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.0/Maieutica_0.1.0_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVo3OFlwRHh4MW1IczdveFVjT3cwMEdUQzduN1JJYytiY0dkRFpZeDJCVVpuK0kxaEdNU291aHpYNFlkd0EwTzBuSUxEMVpydXZCblo4R3A1N2d0bndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTkwMDg0CWZpbGU6TWFpZXV0aWNhXzAuMS4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMS4wCngvMUtkYmV4OHRPRHVBTlhaYzk5R2ZKNWJwcjhBNHlNb2Y3N0phRm1UZUJKM3JDdElSTWx2dVRJQ0I0aDhhOFpzekNnYmk5N2Q2Ym5PRjA0clEwYUR3PT0K"
+    }
+  },
+  "maieutica": {
+    "releases": [
+      {
+        "version": "0.1.0",
+        "publishedAt": "2026-10-21T14:05:10Z",
+        "sizes": {
+          "windows-x86_64-nsis": 113841798,
+          "linux-x86_64-deb": 174818562
+        },
+        "format": 3,
+        "security": false,
+        "added": [
+          "Maieutica helps you work out what you need to learn, then teaches it one step at a time. It asks you a few questions, looks into the subject, and agrees a goal with you before it writes anything.",
+          "The agent is told never to note your health, money, family, beliefs, politics, sexuality or gender, or what an employer should not read. A note that plainly says one of these about you is refused.",
+          "Your curricula are yours. They are kept on this computer, or in a folder you choose, and nothing in them is scored. Keep them on a shared or synced drive to use them from your other computers too.",
+          "If your curricula say they were written by a newer Maieutica, it names the file, changes nothing, and offers the version that reads them.",
+          "Sign in with your Claude plan from the window, without a terminal. Or have the agent paid by your own API key, kept in this computer’s password store and read only by Maieutica.",
+          "Settings shows who is signed in and on which plan, and lets you sign out or switch account.",
+          "An API key typed or pasted where the agent would read it is never sent or kept. Maieutica says why, and leaves the rest of what you typed in the box.",
+          "On Windows, Maieutica installs for you alone, with everything it needs, and keeps a log you can send when something goes wrong. On Linux it installs from a .deb.",
+          "Maieutica looks for a newer version by itself, and the check carries nothing about you. Before anything is downloaded, it shows what the new version changes. It installs only what its publisher signed, and only when you press restart and nothing would be lost.",
+          "Settings › About Maieutica shows which version you have, and which version of the agent’s program came with it.",
+          "The download page lists every version, with each file’s size and checksum."
+        ],
+        "fixed": [],
+        "addedTopics": [
+          {
+            "title": "Learning with Maieutica",
+            "lines": 2
+          },
+          {
+            "title": "Your curricula",
+            "lines": 2
+          },
+          {
+            "title": "Signing in and paying for the agent",
+            "lines": 3
+          },
+          {
+            "title": "Installing and updating",
+            "lines": 4
+          }
+        ],
+        "fixedTopics": []
+      }
+    ]
+  }
+}
