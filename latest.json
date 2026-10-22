@@ -1,19 +1,57 @@
 {
-  "version": "0.1.1",
-  "notes": "What is new and fixed in 0.1.1 is shown in Maieutica before you agree to update.",
-  "pub_date": "2026-10-22T05:54:06Z",
+  "version": "0.2.0",
+  "notes": "What is new and fixed in 0.2.0 is shown in Maieutica before you agree to update.",
+  "pub_date": "2026-10-22T13:10:06Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.1/Maieutica_0.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVIxNHlLTDBvZHVPOWVDRjY4Rmp4UUdiZStlMGxkUUY4RHZoRVpKbjRpS2pxaTJ4b3gvTDFZZE9reEJVdlIvcm5oenpsOGQ4TlM3QmhiK3ZkcmtiVXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ4MzA2CWZpbGU6TWFpZXV0aWNhXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpGekdnclUyVmtFMW9pbzBsZkZHa25BNVFIT3VHbzhRdkZiRTFka01aWXFrYTVDWm13L29pMTBJMHN3Wnl0UjVhTGNzS2Y2V0FKN0puM1YxZ0NoYXBDdz09Cg=="
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.2.0/Maieutica_0.2.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbWMzQmJHbW05UTdxQjlxd2FXRm5Wa3Z2NHk1UVZlOW54cW96cytCV0RiT1VDTzl0b2xCYnpIWTNsaUZqTjVxN2twZjV6WGREeWtoc01XTE9Wd0ZwTEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc0NDI2CWZpbGU6TWFpZXV0aWNhXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApvbnZ1VXU1aUlnWS9sVURKMkdSRmtnVTloUysvVXFoQUxBUzdFMEZNZmN4R0MwLy9qTVFKOENHRUY0UmVoNllOYjdValdxRHFGOXgzSmhQU1pLV1FBQT09Cg=="
     },
     "linux-x86_64-deb": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.1/Maieutica_0.1.1_amd64.deb",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVJRNCtVTzRnUndhb0d1Vm9RSjAzZ2VzbDBYbFJybjNPL3RhSE9MZHg5eUFMbVhDT2dzUUJnQWQzS3RnbXBkamxPdG45MllqQXduR080UU15cVY2UXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ4MzA3CWZpbGU6TWFpZXV0aWNhXzAuMS4xX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMS4xCnZsanlRajhQZjR0dFduN0h3VXRHNjQ3Q3ZlOEJoeXZ0YUVIWFVwZ1dQbWpvMW5HeVFGTmtJTjlHUGUrWCs4dEVxOFJpdTJCdllQSENkaHJVQVlKM0JRPT0K"
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.2.0/Maieutica_0.2.0_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVNFRmxtd1FQdzVNZGpSckkvNkxVb3FZTmhsWWxTcmdzdHpHUmZnTUhKd1cyR3JRWTlMYk9XUUVyK2VxSGU2WDk3bTlselhYMXVzZlZORlU2ZGU5UXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc0NDI2CWZpbGU6TWFpZXV0aWNhXzAuMi4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMi4wCjFIMWpNVjVrNDRET3dWRUxWTkw2M2g1NzlaVHRiUVpDV0ttS1hCSmNLcUZ4cktFSDRwYUZTRDZlbk1OSzFXOENsNEpCdElIOHE1U0hERmtkWjZhOEN3PT0K"
     }
   },
   "maieutica": {
     "releases": [
+      {
+        "version": "0.2.0",
+        "publishedAt": "2026-10-22T13:10:06Z",
+        "sizes": {
+          "windows-x86_64-nsis": 113902896,
+          "linux-x86_64-deb": 174896666
+        },
+        "format": 4,
+        "security": false,
+        "added": [
+          "Every step now reads in Maieutica’s reading type and line length, in the app and when you open it from your folder.",
+          "A step can draw a picture where it explains faster. Each picture has a caption and says in words what it shows, and it moves only when you click its own button.",
+          "Now and then, under a step, Maieutica asks how it is going: too easy, about right or too hard, more depth or a higher level, more said or less. The agent is told with every step it writes, until you change it.",
+          "“How you asked to be taught” shows what you said, and lets you change or forget it, or stop being asked. Nothing in it is worked out from what you do.",
+          "If you say a step was too hard after the next ones were written, Maieutica offers to write those again. The earlier versions stay in your folder.",
+          "The agent plans each module’s steps, so a step says where it is: step 2 of 5.",
+          "Have a module’s planned steps written while you read, or every module’s, with one click that says how many. It stops at a limit or when you press Stop, and never goes on by itself.",
+          "A new curriculum can be given, beside its name, what you want from it, in your own words. The agent reads it before its first question. You can change it on the Questions and Goal pages.",
+          "Frequent actions now have keys, shown beside them: ← and → among steps, Ctrl+Enter to send, Esc to stop the agent, and Ctrl+K for every action on the page.",
+          "0.2.0 stores your curricula in a newer way. Once it has written to them, a computer of yours still on 0.1 cannot open them until it is updated too."
+        ],
+        "fixed": [],
+        "addedTopics": [
+          {
+            "title": "Learning a step",
+            "lines": 5
+          },
+          {
+            "title": "Writing ahead",
+            "lines": 2
+          },
+          {
+            "title": "Your curricula",
+            "lines": 3
+          }
+        ],
+        "fixedTopics": []
+      },
       {
         "version": "0.1.1",
         "publishedAt": "2026-10-22T05:54:06Z",
