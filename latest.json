@@ -1,19 +1,51 @@
 {
-  "version": "0.1.0",
-  "notes": "What is new and fixed in 0.1.0 is shown in Maieutica before you agree to update.",
-  "pub_date": "2026-10-21T14:05:10Z",
+  "version": "0.1.1",
+  "notes": "What is new and fixed in 0.1.1 is shown in Maieutica before you agree to update.",
+  "pub_date": "2026-10-22T05:54:06Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.0/Maieutica_0.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVl6cnNLSnJiUFFoOFB1RzgzcjhVcXBQaURjekh0OW5XNm1wMGtyUE44NnplTlQvTzloQWpoTVEyRkFmMXVqelZlOEYzOHhqK01oaWVkVlNvT1NLaXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTkwMDY5CWZpbGU6TWFpZXV0aWNhXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAplK2Ivd2V5SVV5VnVrVms2TWc2ZlBSeVRoUjVHSTA4OGRqb3FsMzFqd0lab3U3T0VmOEpEZkRQYVd0Z0NWZjJKVUxUT0Z0U3RvSlppczlTUFk1Z0VEQT09Cg=="
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.1/Maieutica_0.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVIxNHlLTDBvZHVPOWVDRjY4Rmp4UUdiZStlMGxkUUY4RHZoRVpKbjRpS2pxaTJ4b3gvTDFZZE9reEJVdlIvcm5oenpsOGQ4TlM3QmhiK3ZkcmtiVXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ4MzA2CWZpbGU6TWFpZXV0aWNhXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpGekdnclUyVmtFMW9pbzBsZkZHa25BNVFIT3VHbzhRdkZiRTFka01aWXFrYTVDWm13L29pMTBJMHN3Wnl0UjVhTGNzS2Y2V0FKN0puM1YxZ0NoYXBDdz09Cg=="
     },
     "linux-x86_64-deb": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.0/Maieutica_0.1.0_amd64.deb",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVo3OFlwRHh4MW1IczdveFVjT3cwMEdUQzduN1JJYytiY0dkRFpZeDJCVVpuK0kxaEdNU291aHpYNFlkd0EwTzBuSUxEMVpydXZCblo4R3A1N2d0bndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTkwMDg0CWZpbGU6TWFpZXV0aWNhXzAuMS4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMS4wCngvMUtkYmV4OHRPRHVBTlhaYzk5R2ZKNWJwcjhBNHlNb2Y3N0phRm1UZUJKM3JDdElSTWx2dVRJQ0I0aDhhOFpzekNnYmk5N2Q2Ym5PRjA0clEwYUR3PT0K"
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.1.1/Maieutica_0.1.1_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVJRNCtVTzRnUndhb0d1Vm9RSjAzZ2VzbDBYbFJybjNPL3RhSE9MZHg5eUFMbVhDT2dzUUJnQWQzS3RnbXBkamxPdG45MllqQXduR080UU15cVY2UXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ4MzA3CWZpbGU6TWFpZXV0aWNhXzAuMS4xX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMS4xCnZsanlRajhQZjR0dFduN0h3VXRHNjQ3Q3ZlOEJoeXZ0YUVIWFVwZ1dQbWpvMW5HeVFGTmtJTjlHUGUrWCs4dEVxOFJpdTJCdllQSENkaHJVQVlKM0JRPT0K"
     }
   },
   "maieutica": {
     "releases": [
+      {
+        "version": "0.1.1",
+        "publishedAt": "2026-10-22T05:54:06Z",
+        "sizes": {
+          "windows-x86_64-nsis": 113863532,
+          "linux-x86_64-deb": 174829968
+        },
+        "format": 3,
+        "security": false,
+        "added": [],
+        "fixed": [
+          "In a narrow or zoomed window, “Cannot tell if you are signed in” no longer takes half the window with its reason. Press it to read why, with “Check again” under the reason.",
+          "When Maieutica is slow to answer “Sign out”, the window now waits until it knows how the sign-out ended, instead of saying it cannot tell.",
+          "A copy of your account’s details that Maieutica could not remove when you signed out is removed again the next time it starts. If it still cannot be, Settings › Signing in says where it is.",
+          "An organisation named after the part of your email before the @, such as “richard’s Organization”, is no longer shown as its name, in the bar or in Settings.",
+          "Starting Maieutica a second time no longer spoils an update the first was about to install.",
+          "When an update is not installed, Maieutica now says what its check found, instead of always saying the file was changed on this computer.",
+          "A download that brings more than its announced size is stopped, and nothing of it is kept.",
+          "A link from Maieutica to one version on getmaieutica.com now opens that version, whatever its number."
+        ],
+        "addedTopics": [],
+        "fixedTopics": [
+          {
+            "title": "Signing in and paying for the agent",
+            "lines": 4
+          },
+          {
+            "title": "Installing and updating",
+            "lines": 4
+          }
+        ]
+      },
       {
         "version": "0.1.0",
         "publishedAt": "2026-10-21T14:05:10Z",
