@@ -1,19 +1,53 @@
 {
-  "version": "0.2.0",
-  "notes": "What is new and fixed in 0.2.0 is shown in Maieutica before you agree to update.",
-  "pub_date": "2026-10-22T13:10:06Z",
+  "version": "0.3.0",
+  "notes": "What is new and fixed in 0.3.0 is shown in Maieutica before you agree to update.",
+  "pub_date": "2026-10-23T09:18:33Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.2.0/Maieutica_0.2.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbWMzQmJHbW05UTdxQjlxd2FXRm5Wa3Z2NHk1UVZlOW54cW96cytCV0RiT1VDTzl0b2xCYnpIWTNsaUZqTjVxN2twZjV6WGREeWtoc01XTE9Wd0ZwTEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc0NDI2CWZpbGU6TWFpZXV0aWNhXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApvbnZ1VXU1aUlnWS9sVURKMkdSRmtnVTloUysvVXFoQUxBUzdFMEZNZmN4R0MwLy9qTVFKOENHRUY0UmVoNllOYjdValdxRHFGOXgzSmhQU1pLV1FBQT09Cg=="
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.3.0/Maieutica_0.3.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbWVTVkMzNUo3bXFFQ0dkRC9CNDUvKzFQbUFaek1OYTN1bnVLWTNoN0ZEaW0vTzNsWFc5eFlYSDh1SU56MHdyZmI1Vmo3WW5kVERNVzg1Tk1nc1ZYZVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ2ODI2CWZpbGU6TWFpZXV0aWNhXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMAo3Nm90OG9oaERvZk14STVDMzg3SStCbVVuNFFVOGdRK2thMURPKzQwbkh3aFVRUUprMHZjMExnMEx3NEtISXA3cFAzWlNWSFBKVW4vL3RIWEIwNy9CZz09Cg=="
     },
     "linux-x86_64-deb": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.2.0/Maieutica_0.2.0_amd64.deb",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVNFRmxtd1FQdzVNZGpSckkvNkxVb3FZTmhsWWxTcmdzdHpHUmZnTUhKd1cyR3JRWTlMYk9XUUVyK2VxSGU2WDk3bTlselhYMXVzZlZORlU2ZGU5UXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc0NDI2CWZpbGU6TWFpZXV0aWNhXzAuMi4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMi4wCjFIMWpNVjVrNDRET3dWRUxWTkw2M2g1NzlaVHRiUVpDV0ttS1hCSmNLcUZ4cktFSDRwYUZTRDZlbk1OSzFXOENsNEpCdElIOHE1U0hERmtkWjZhOEN3PT0K"
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.3.0/Maieutica_0.3.0_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVYyc1FET1l4d3BQWlZVRGJ3Tkk4cmdlOCtuU0dHQUZMQmYxWU5hNDJoK21wM1lSa0pzNGR3MWhpWXRzYzQxWUdjY1hOMUhESUMvUE9JOG84YTM0c3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ2ODI2CWZpbGU6TWFpZXV0aWNhXzAuMy4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMy4wCjFhRXh3alhsRjJ1Wnc1ZHVwN3RBVEtkeHExTVV0TEJKUWI2WmVCNURxNFRvck1aOVZsazN4djNUYVA0R2NyMjB0SjFDK0hjYTNKeTBvQVR4RnpyaER3PT0K"
     }
   },
   "maieutica": {
     "releases": [
+      {
+        "version": "0.3.0",
+        "publishedAt": "2026-10-23T09:18:33Z",
+        "sizes": {
+          "windows-x86_64-nsis": 115242317,
+          "linux-x86_64-deb": 180125730
+        },
+        "format": 5,
+        "security": false,
+        "added": [
+          "The agent now reads your files as Claude reads them: pictures and photos (JPEG, PNG, GIF, WebP) are seen, a PDF’s pages are seen with their text — scanned pages, charts and photos included — and Excel and PowerPoint files are read as their text.",
+          "Before you choose a file, the Sources page says which kinds can be added, and the file dialog offers just those first.",
+          "A file that cannot be read is refused when you choose it, with what to do: a HEIC photo saved as JPEG, an older Word, Excel or PowerPoint file saved in the newer format, or a file over 20 MB split.",
+          "A photo is sent without where, when and with what it was taken.",
+          "The agent reads every file to its end before it reports, or says what it leaves out and why. “What was read” shows which pages of a PDF were seen.",
+          "Maieutica asks again what it may send, because files now go as they are. The page says why, and marks what is new.",
+          "0.3.0 stores your curricula in a newer way. Once it has written to them, a computer of yours still on 0.2 cannot open them until it is updated too."
+        ],
+        "fixed": [
+          "Under “How is it going?” and in “How you asked to be taught”, a press while an answer was being saved did nothing. Every button there now waits, marked, until it is saved."
+        ],
+        "addedTopics": [
+          {
+            "title": "Your sources",
+            "lines": 7
+          }
+        ],
+        "fixedTopics": [
+          {
+            "title": "Learning a step",
+            "lines": 1
+          }
+        ]
+      },
       {
         "version": "0.2.0",
         "publishedAt": "2026-10-22T13:10:06Z",
