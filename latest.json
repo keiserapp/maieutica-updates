@@ -1,19 +1,51 @@
 {
-  "version": "0.3.0",
-  "notes": "What is new and fixed in 0.3.0 is shown in Maieutica before you agree to update.",
-  "pub_date": "2026-10-23T09:18:33Z",
+  "version": "0.4.0",
+  "notes": "What is new and fixed in 0.4.0 is shown in Maieutica before you agree to update.",
+  "pub_date": "2026-10-24T06:28:12Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.3.0/Maieutica_0.3.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbWVTVkMzNUo3bXFFQ0dkRC9CNDUvKzFQbUFaek1OYTN1bnVLWTNoN0ZEaW0vTzNsWFc5eFlYSDh1SU56MHdyZmI1Vmo3WW5kVERNVzg1Tk1nc1ZYZVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ2ODI2CWZpbGU6TWFpZXV0aWNhXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMAo3Nm90OG9oaERvZk14STVDMzg3SStCbVVuNFFVOGdRK2thMURPKzQwbkh3aFVRUUprMHZjMExnMEx3NEtISXA3cFAzWlNWSFBKVW4vL3RIWEIwNy9CZz09Cg=="
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.4.0/Maieutica_0.4.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVc1NC93MnBOSHBCbGx4Z05FNjNicnZpMTVDNlUyVlByL3haZVhQWmZDSXRjYjhTaTlHNzJURzl3OGZtd1htbTg3SVVuS3o2RVdseEI5dkhCRWVPaVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODIzMTgyCWZpbGU6TWFpZXV0aWNhXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApYNzNRd1FNcDlXbWl6dG00Zk1hcDZPZGhzYjYrbDFqMDJPTG1DRDVhQ0VJM2daZDl2TjhoQ3Q4aDVZQWptMmJxNVNhR0ZRbG03YWlmUy9kUTgwSlZCUT09Cg=="
     },
     "linux-x86_64-deb": {
-      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.3.0/Maieutica_0.3.0_amd64.deb",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbVYyc1FET1l4d3BQWlZVRGJ3Tkk4cmdlOCtuU0dHQUZMQmYxWU5hNDJoK21wM1lSa0pzNGR3MWhpWXRzYzQxWUdjY1hOMUhESUMvUE9JOG84YTM0c3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ2ODI2CWZpbGU6TWFpZXV0aWNhXzAuMy4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMy4wCjFhRXh3alhsRjJ1Wnc1ZHVwN3RBVEtkeHExTVV0TEJKUWI2WmVCNURxNFRvck1aOVZsazN4djNUYVA0R2NyMjB0SjFDK0hjYTNKeTBvQVR4RnpyaER3PT0K"
+      "url": "https://github.com/keiserapp/maieutica/releases/download/v0.4.0/Maieutica_0.4.0_amd64.deb",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVi94WHgyY2FNbWNRdWd0UzVNQjU3dnVQRk1yQjNBNEFZYlhNd1NPcHNKdFFKUGtORkR4TXF4dDJzdld2SVM1TTBFQWE2V0JFNFdKenZENWEvUHNHTlEycWdVK093bUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODIzMTgzCWZpbGU6TWFpZXV0aWNhXzAuNC4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuNC4wCjAxMjEvZkNWRWtXdmtZVzMvcHVTS3BJNHl1SzBWUEo1Z1hEQXlrcG1LL0ZCRzZxNGIvVVlxeitveFhMMlJTRDRBdFUyUDZjUEVLb2w1NmJIRmg0bkFnPT0K"
     }
   },
   "maieutica": {
     "releases": [
+      {
+        "version": "0.4.0",
+        "publishedAt": "2026-10-24T06:28:12Z",
+        "sizes": {
+          "windows-x86_64-nsis": 115281070,
+          "linux-x86_64-deb": 180169706
+        },
+        "format": 5,
+        "security": false,
+        "added": [
+          "A step now gets most of the window, at every size. A step written from this version on is as tall as it is, so the page scrolls once and the step has no scrollbar of its own; one written before keeps its own scrollbar, as before.",
+          "“Full width”, beside “← All modules”, lets a step run the whole width of the window; Ctrl+Shift+F does the same. Off, lines keep a comfortable length. This computer remembers your choice.",
+          "A picture, table or block of code stays a comfortable width, centred, unless the agent marks it as one that needs the room.",
+          "The step’s buttons stay in view at the foot of the window while you read. In a narrow window the less frequent ones are under “More”.",
+          "While the next step is being written, its button says so where you press, and Stop shows how long it has taken. What Maieutica has to say is one line under the buttons, with “2 more” for the rest, so the step keeps its room."
+        ],
+        "fixed": [
+          "Esc no longer stops writing ahead: only a button does, so a key pressed for something else can’t end it by mistake. Esc still stops the agent when you asked it something yourself."
+        ],
+        "addedTopics": [
+          {
+            "title": "Learning a step",
+            "lines": 5
+          }
+        ],
+        "fixedTopics": [
+          {
+            "title": "Writing ahead",
+            "lines": 1
+          }
+        ]
+      },
       {
         "version": "0.3.0",
         "publishedAt": "2026-10-23T09:18:33Z",
